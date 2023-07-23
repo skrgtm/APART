@@ -1,4 +1,4 @@
-#import libraries
+#import all libraries
 from flask import Flask, redirect, render_template, flash, request, url_for, session
 from flask_mysqldb import MySQL
 import MySQLdb.cursors
